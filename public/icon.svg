@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1352 1499" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="D"><path d="M1331.79,15.174c3.343,100.208 112.36,973.935 -636.471,1471.27" style="fill:none;stroke:currentColor;stroke-width:25px;"/>
+        <path d="M696.687,15.373c118.235,56.601 291.812,157.097 635.647,1.155" style="fill:none;stroke:currentColor;stroke-width:25px;"/>
+        <path id="D-Inner-Curve" serif:id="D Inner Curve" d="M1259.56,130.085c-0,281.085 -73.343,810.2 -482.508,1157.35" style="fill:none;stroke:currentColor;stroke-width:25px;"/>
+        <path id="D-Inner-Roof" serif:id="D Inner Roof" d="M773.42,134.699c113.124,45.907 341.647,61.542 486.042,-5.066" style="fill:none;stroke:currentColor;stroke-width:25px;"/>
+        <path id="D-Inner-Straight-Line" serif:id="D Inner Straight Line" d="M773.223,134.536l1.855,1151.54" style="fill:none;stroke:currentColor;stroke-width:25px;"/>
+        <path id="D-Outer-Straight-Line" serif:id="D Outer Straight Line" d="M695.296,14.226l-0,1470.42" style="fill:none;stroke:currentColor;stroke-width:25px;"/>
+    </g>
+    <g id="P">
+        <g id="OuterP">
+            <path d="M19.134,12.5c-3.342,100.267 -106.951,976.303 641.712,1473.93" style="fill:none;stroke:currentColor;stroke-width:25px;"/>
+            <path d="M187.555,708.453c6.108,19.827 11.925,40.985 19.275,61.33c73.763,204.183 191.882,363.278 453.737,557.891" style="fill:none;stroke:currentColor;stroke-width:25px;"/>
+            <path d="M19.281,12.699c118.235,56.601 291.812,157.097 635.647,1.155" style="fill:none;stroke:currentColor;stroke-width:25px;"/>
+            <path d="M654.034,703.714l-465.542,4.248" style="fill:none;stroke:currentColor;stroke-width:25px;"/>
+            <path d="M654.529,14.048l-0,688.805" style="fill:none;stroke:currentColor;stroke-width:25px;"/>
+            <path d="M660.82,1329.57l0.359,156.163" style="fill:none;stroke:currentColor;stroke-width:25px;"/>
+        </g>
+        <g id="InnerP">
+            <path d="M574.655,624.291l-409.425,-0" style="fill:none;stroke:currentColor;stroke-width:25px;"/>
+            <path d="M103.717,152.615c-0,65.694 -11.811,239.316 59.298,470.143" style="fill:none;stroke:currentColor;stroke-width:25px;"/>
+            <path d="M578.833,624.335l0,-470.81" style="fill:none;stroke:currentColor;stroke-width:25px;"/>
+            <path d="M104.693,151.96c246.813,63.991 310.865,37.294 473.781,1.402" style="fill:none;stroke:currentColor;stroke-width:25px;"/>
+        </g>
+    </g>
+</svg>
