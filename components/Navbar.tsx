@@ -23,10 +23,6 @@ const Navbar = () => {
             <div className="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
               <a href="#" className="font-medium text-gray-500 hover:text-gray-900">Product</a>
 
-              <a href="#" className="font-medium text-gray-500 hover:text-gray-900">Features</a>
-
-              <a href="#" className="font-medium text-gray-500 hover:text-gray-900">Marketplace</a>
-
               <a href="#" className="font-medium text-gray-500 hover:text-gray-900">Company</a>
             </div>
         </nav>
