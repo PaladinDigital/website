@@ -1,15 +1,17 @@
-import Head from 'next/head'
-import Icon from '../public/icon.svg';
+import Link from 'next/link';
 
 const Navbar = () => {
   return (
     <nav className="md:absolute flex items-center justify-between lg:justify-start" aria-label="Global">
       <div className="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
         <div className="flex items-center justify-between w-full md:w-auto font-extrabold text-xl text-gray-900">
-          <a href="/" className='flex items-center'>
-          <img className='mx-4 my-4' src='icon.svg' width={48} height={48} />
-            Paladin Digital
-          </a>
+          <Link href='/'>
+            <a className='flex items-center'>
+            <img className='mx-4 my-4' src='icon.svg' width={48} height={48} />
+              Paladin Digital
+            </a>
+          </Link>
+          
           <div className="-mr-2 flex items-center md:hidden">
             <button type="button" className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false">
               <span className="sr-only">Open main menu</span>
