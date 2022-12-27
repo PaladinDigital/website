@@ -34,15 +34,13 @@ const Home: NextPage = () => {
                 <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
                   At Paladin Digital we have years of experience creating the highest quality software and solutions for our clients. We pride ourselves on our value added approach to design, development and maintenance.
                 </p>
-                <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
-                  <div className="rounded-md shadow">
-                    <a
-                      href="#"
-                      className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10"
-                    >
-                      Contact Us
-                    </a>
-                  </div>
+
+                <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-md sm:max-w-xl sm:mx-auto md:mt-5 md:text-lg lg:mx-0">
+                  We respect clients who value their time and ours, that&apos;s why our homepage is bloat-free, want to work together? get in touch
+                </p>
+                <div className="mt-5 sm:mt-8">
+                  <h2 className='mb-2 text-2xl text-indigo-600'>Contact Us</h2>
+                  <p>Email: <a href='mailto:paladincreative@gmail.com'>paladincreative@gmail.com</a></p>
                 </div>
               </div>
             </main>
