@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className="md:absolute flex items-center justify-between lg:justify-start" aria-label="Global">
       <div className="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
         <div className="flex items-center justify-between w-full md:w-auto font-extrabold text-xl text-gray-900">
-          <a href="#" className='flex items-center'>
+          <a href="/" className='flex items-center'>
           <img className='mx-4 my-4' src='icon.svg' width={48} height={48} />
             Paladin Digital
           </a>
